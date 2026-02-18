@@ -1,7 +1,7 @@
 # 📘 Lógica Computacional
 
 **Professor:** Cesar Mauricio Chauchuty  
-**Curso:** Técnico em Desenvolvimento de Sistemas  
+**Curso:** Técnico em Desenvolvimento de Sistemas - CEPK - 1DSB
 **Instituição:** Colégio Estadual Presidente Kennedy  
 
 ---
