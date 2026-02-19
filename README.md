@@ -40,6 +40,7 @@
 |----------------------------------------|----------------------------------------------------------------------|
 | Introdução à Lógica de Programação     | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/introducao-a-l%C3%B3gica-de-programacao.md) |
 | Formas de Representação de Algoritmos  | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/formas-de-representacao-de-algoritmos.md) |
+| Tabela-Verdade | [Acessar](https://github.com/profchauchuty/logica-computacional/blob/main/files/tabela-verdade.md) |
 
 ---
 
