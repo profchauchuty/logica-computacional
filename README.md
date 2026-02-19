@@ -1,8 +1,9 @@
 # 📘 Lógica Computacional
 
+**Turma:** 1ª Ano B – Tarde – CEPK  
 **Professor:** Cesar Mauricio Chauchuty  
-**Curso:** Técnico em Desenvolvimento de Sistemas - CEPK - 1DSB
-**Instituição:** Colégio Estadual Presidente Kennedy  
+**Curso:** Técnico em Desenvolvimento de Sistemas  
+**Instituição:** Colégio Estadual Presidente Kennedy
 
 ---
 
