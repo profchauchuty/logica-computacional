@@ -173,6 +173,3 @@ As principais operações lógicas são:
 | F                         | F                       | Não                         | Sim                                   | V         |
 
 ---
-
-**Referência Bibliográfica:**  
-RIZZO, Maria Luiza Alves. *Tabela verdade*. Brasil Escola. Disponível em: [https://brasilescola.uol.com.br/matematica/tabela-verdade.htm](https://brasilescola.uol.com.br/matematica/tabela-verdade.htm). Acesso em 18 de fevereiro de 2026.
