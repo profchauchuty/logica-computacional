@@ -4,6 +4,20 @@ Uma **proposição composta** pode ser verdadeira ou falsa, dependendo das propo
 
 ---
 
+## 0. Breve História da Tabela Verdade
+
+A tabela verdade surgiu como uma ferramenta para **analisar proposições lógicas** e seus valores de verdade.  
+
+- **Antiguidade:** Aristóteles estudava o raciocínio lógico com silogismos, mas ainda não havia tabelas.  
+- **Século XIX – George Boole (1815–1864):** Criou a **álgebra booleana**, formalizando a lógica com operações matemáticas (AND, OR, NOT).  
+- **Início do século XX – Bertrand Russell e Alfred North Whitehead:** Desenvolveram a **lógica simbólica moderna** no livro *Principia Mathematica*.  
+- **Década de 1920 – Emil Post e C. I. Lewis:** Introduziram métodos sistemáticos para analisar proposições e popularizaram a tabela verdade.  
+- **Hoje:** É fundamental na **lógica matemática, programação e circuitos digitais**, permitindo analisar expressões lógicas de forma clara.
+
+> **Resumo:** A tabela verdade nos ajuda a visualizar todos os possíveis resultados de uma proposição composta, combinando valores das proposições simples que a formam.
+
+---
+
 ## 1. Resumo sobre Tabela Verdade
 
 A tabela verdade é um instrumento lógico que apresenta **todos os valores lógicos de uma proposição composta**. Ela é usada na **lógica matemática** para analisar proposições formadas por operações entre proposições simples.
@@ -36,48 +50,6 @@ As principais operações lógicas são:
 - `p ↔ q` — “p se e somente se q”  
 
 > Observação: A bicondicional `p ↔ q` equivale à condicional nos dois sentidos: `p → q` e `q → p`.
-
----
-
-## 3. Tabelas Verdade dos Conectivos
-
-### 3.1 Negação (~)
-
-**Tabela Pura:**
-
-| p | ~p |
-|---|----|
-| V | F  |
-| F | V  |
-
-**Com exemplo:**
-
-| Está chovendo (p) | Não está chovendo (~p) |
-|------------------|------------------------|
-| V                | F                      |
-| F                | V                      |
-
----
-
-### 3.2 Conjunção (˄)
-
-**Tabela Pura:**
-
-| p | q | p ˄ q |
-|---|---|-------|
-| V | V | V     |
-| V | F | F     |
-| F | V | F     |
-| F | F | F     |
-
-**Com exemplo:**
-
-| Estudei para a prova (p) | Entreguei o trabalho (q) | Fiz as duas coisas? (p ˄ q) |
-|---------------------------|-------------------------|------------------|
-| V                         | V                       | V (fiz os dois) |
-| V                         | F                       | F (só estudei)  |
-| F                         | V                       | F (só entreguei)|
-| F                         | F                       | F (não fiz nenhum)|
 
 ---
 
