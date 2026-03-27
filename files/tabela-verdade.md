@@ -4,7 +4,7 @@ Uma **proposição composta** pode ser verdadeira ou falsa, dependendo das propo
 
 ---
 
-## 0. Breve História da Tabela Verdade
+## 1. Breve História da Tabela Verdade
 
 A tabela verdade surgiu como uma ferramenta para **analisar proposições lógicas** e seus valores de verdade.  
 
@@ -18,7 +18,7 @@ A tabela verdade surgiu como uma ferramenta para **analisar proposições lógic
 
 ---
 
-## 1. Resumo sobre Tabela Verdade
+## 2. Resumo sobre Tabela Verdade
 
 A tabela verdade é um instrumento lógico que apresenta **todos os valores lógicos de uma proposição composta**. Ela é usada na **lógica matemática** para analisar proposições formadas por operações entre proposições simples.
 
@@ -32,7 +32,7 @@ As principais operações lógicas são:
 
 ---
 
-## 2. Principais Conectivos Lógicos
+## 3. Principais Conectivos Lógicos
 
 | Operação       | Símbolo | Significado           |
 |----------------|---------|---------------------|
@@ -53,9 +53,9 @@ As principais operações lógicas são:
 
 ---
 
-## 3. Tabelas Verdade dos Conectivos
+## 4. Tabelas Verdade dos Conectivos
 
-### 3.1 Negação (~)
+### 4.1 Negação (~)
 
 **Tabela Pura:**
 
@@ -73,7 +73,7 @@ As principais operações lógicas são:
 
 ---
 
-### 3.2 Conjunção (˄)
+### 4.2 Conjunção (˄)
 
 **Tabela Pura:**
 
@@ -95,7 +95,7 @@ As principais operações lógicas são:
 
 ---
 
-### 3.3 Disjunção (˅)
+### 4.3 Disjunção (˅)
 
 **Tabela Pura:**
 
@@ -117,7 +117,7 @@ As principais operações lógicas são:
 
 ---
 
-### 3.4 Condicional (→)
+### 4.4 Condicional (→)
 
 **Tabela Pura:**
 
@@ -139,7 +139,7 @@ As principais operações lógicas são:
 
 ---
 
-### 3.5 Bicondicional (↔)
+### 4.5 Bicondicional (↔)
 
 **Tabela Pura:**
 
@@ -161,7 +161,7 @@ As principais operações lógicas são:
 
 ---
 
-## 4. Construção de uma Tabela Verdade Composta
+## 5. Construção de uma Tabela Verdade Composta
 
 **Exemplo:** `~(p ˄ q)`
 
