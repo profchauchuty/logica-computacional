@@ -4,8 +4,8 @@ Em uma escola, o sistema de liberação automática da catraca do refeitório de
 
 Um aluno pode passar se atender **todas** estas condições:
 
-- Está **matriculado** na escola **E**
-- Trouxe o **crachá** ou está **uniformizado**
+- Está **matriculado** no **Colégio Estadual Presidente Kennedy**
+- Trouxe o **crachá** **OU** está **uniformizado**
 - **Não** está em período de suspensão
 - Está no **horário do intervalo** **OU** tem **autorização especial** do professor
 - Seu **RA** é par **OU** sua **turma** é do turno da manhã
