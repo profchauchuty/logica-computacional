@@ -7,34 +7,6 @@
 
 ---
 
-## 📊 Sistema de Avaliação 
-
-### 1º Trimestre
-
-| Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
-|-----------------------------|--------------------|-----------|----------------|------------|
-| Atividade Individual        | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-
-### 2º Trimestre
-
-| Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
-|-----------------------------|--------------------|-----------|----------------|------------|
-| Atividade Individual        | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-
-### 3º Trimestre
-
-| Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
-|-----------------------------|--------------------|-----------|----------------|------------|
-| Prova Individual            | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-
----
-
 ## 🧪 Conteúdos
 
 | Aula                                   | Link                                                                 |
@@ -42,6 +14,7 @@
 | Introdução à Lógica de Programação     | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/introducao-a-l%C3%B3gica-de-programacao.md) |
 | Formas de Representação de Algoritmos  | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/formas-de-representacao-de-algoritmos.md) |
 | Tabela-Verdade | [Acessar](https://github.com/profchauchuty/logica-computacional/blob/main/files/tabela-verdade.md) |
+| Exercícios: Portas Lógicas | [Acessar](https://github.com/profchauchuty/logica-computacional/blob/main/files/atividade-portas-logicas.md) |
 
 ---
 
