@@ -494,29 +494,3 @@ As duas expressões geram exatamente os mesmos resultados.
 | ⊥ | Falso | S = 0 |
 
 ---
-
-# Operadores Utilizados em Diagramas Lógicos
-
-Os operadores mais utilizados na construção de circuitos digitais e diagramas lógicos são:
-
-```text
-S = ¬A
-S = A ∧ B
-S = A ∨ B
-S = A ⊕ B
-S = ¬(A ∧ B)
-S = ¬(A ∨ B)
-S = A ≡ B
-```
-
-Essas expressões correspondem diretamente às portas lógicas:
-
-```text
-NOT
-AND
-OR
-XOR
-NAND
-NOR
-XNOR
-```
