@@ -15,6 +15,7 @@
 | Formas de Representação de Algoritmos  | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/formas-de-representacao-de-algoritmos.md) |
 | Tabela-Verdade | [Acessar](https://github.com/profchauchuty/logica-computacional/blob/main/files/tabela-verdade.md) |
 | Exercícios: Portas Lógicas | [Acessar](https://github.com/profchauchuty/logica-computacional/blob/main/files/atividade-portas-logicas.md) |
+| Expressões Lógicas | [Acessar](https://github.com/profchauchuty/logica-computacional/blob/main/files/expressoes-logicas.md) |
 
 ---
 
