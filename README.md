@@ -16,7 +16,7 @@
 | Tabela-Verdade | [Acessar](https://github.com/profchauchuty/logica-computacional/blob/main/files/tabela-verdade.md) |
 | Exercícios: Portas Lógicas | [Acessar](https://github.com/profchauchuty/logica-computacional/blob/main/files/atividade-portas-logicas.md) |
 | Expressões Lógicas | [Acessar](https://github.com/profchauchuty/logica-computacional/blob/main/files/expressoes-logicas.md) |
-
+| Leis da Álgebra Booleana | [Acessar](https://github.com/profchauchuty/logica-computacional/blob/main/files/leis-algebra-booleana.md) |
 ---
 
 ## 🛠 Ferramentas
