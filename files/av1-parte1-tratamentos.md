@@ -1,4 +1,4 @@
-# Atividade — Tratamento de Erros e Exceções em TypeScript
+# Atividade — Tratamento de Erros e Exceções
 
 > **“O tratamento de erros é importante, mas se obscurece a lógica, está errado.”**
 > — Robert C. Martin, *Código Limpo (Clean Code)*
